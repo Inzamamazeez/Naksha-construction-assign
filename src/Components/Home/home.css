@@ -1,0 +1,25 @@
+.home_container {
+    padding-top: 7rem;
+    background-image: url('../Allimages/homeimg2.jpg');
+    height: 50rem;
+    background-size: cover;    
+}
+.homesub_container{
+    font-size: 45px;
+    font-style: italic;
+    color: #1e1d1d;
+    margin-left: 80px;
+    margin-top: 150px;
+
+}
+.homesub_container button{
+    background-color: #f5ce35;
+    border: none;
+    box-shadow: 0px 20px 40px -7px #000000;
+    border-radius: 5px;
+    color:black;
+    font-size:20px;
+    font-weight: bolder;
+    width: 200px;
+    height: 70px;
+}

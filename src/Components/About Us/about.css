@@ -1,0 +1,18 @@
+.about_heading{
+    text-align: center;
+    font-size:35px;
+}
+.about_photo {
+  display: flex;
+  justify-content: center;
+
+}
+.about_photo img{
+    width: 500px;
+    border-radius: 500px;
+}
+.about_para{
+    padding:0rem 4rem;
+    justify-content: center;
+    font-size: 30px;
+}

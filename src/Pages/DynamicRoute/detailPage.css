@@ -1,0 +1,43 @@
+.detail_cntnr{
+    padding-top: 7rem;
+}
+
+.detail_cntnr h1{
+    text-align: center;
+}
+
+.detailed_img{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    justify-content: space-around;
+    
+}
+
+.detailed_img img{
+    height: 40vh;
+    width: 25vw;
+    padding-bottom: 30px;
+}
+
+.detailed_img button{
+    width: 15rem;
+    height: 4rem;
+    background-color: #f5ce35;
+    border: none;
+    box-shadow: 0px 20px 40px -7px #000000;
+    border-radius: 10px;
+    color:black;
+    font-size:20px;
+    font-weight: bolder;
+    margin-left: 30px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+.food_details {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 200px;
+
+}

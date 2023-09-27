@@ -1,0 +1,52 @@
+.system_container{
+    padding-top: 7rem;
+    background-image: url('https://img.freepik.com/free-photo/high-angle-deliciouss-foodstuff_23-2149224225.jpg?w=900&t=st=1695822097~exp=1695822697~hmac=d6edcb5425e301ab64de64e7ffa2f52906edc63d5e6f1e243fc648a1d244132e');
+    width: 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.system_container h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 65px;
+    color: white;
+    background: linear-gradient(to bottom,#000000 0%,rgba(0,0,0,0) 100%);
+    padding-top: 20px;
+    margin-top: 0px;
+    padding-bottom: 20px;
+}
+.system_button {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.system_button button{
+    width: 20rem;
+    height: 5rem;
+    background-color: #f5ce35;
+    border: none;
+    box-shadow: 0px 20px 40px -7px #000000;
+    border-radius: 5px;
+    color:black;
+    font-size:20px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 60px;
+    padding: 15px 0px;
+    cursor: pointer;
+}
+
+.food_list{
+    color: #fff;
+    padding-bottom: 2rem;
+    text-align: center;
+    font-size: 18px;
+}
+
+.food_list ul{
+    list-style: none;
+}

@@ -1,0 +1,21 @@
+.testimonial_container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:30px;
+    padding: 0rem 4rem;
+    justify-content: space-between;
+    padding-bottom: 200px;
+}
+.testimonial_cards {
+    /* border: 1px solid gray; */
+    border-radius: 10px;
+    width:30%;
+    padding: 2rem 1.5rem;
+    box-sizing: border-box;
+    font-size: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.testimonial_head{
+    text-align: center;
+    font-size: 35px;
+}
